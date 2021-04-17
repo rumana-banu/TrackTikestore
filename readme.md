@@ -17,4 +17,6 @@ docker run -it --rm tracktikestore
 ```
 
 ### 2. Commond Line Interface
+```
 php shop.php
+```
